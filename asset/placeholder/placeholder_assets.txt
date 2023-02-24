@@ -1,0 +1,11 @@
+Dev: 		Erik
+MM/DD: 	02/24
+Comments:	Placeholder assets made on request for Kyu. PSD contains multiple assets separated by layer groups to be exported as individual PNGs.
+
+Editor:	(Dev Other Than Erik)
+MM/DD:	02/25
+Comments:	Moved assets into proper layer groups. Reduced color saturation.
+
+Editor:	Erik
+MM/DD:	02/26
+Comments:	Added more assets and groups for build 1.5.
