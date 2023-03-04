@@ -1,0 +1,3 @@
+Dev: 		Erik
+MM/DD: 	03/03
+Comments:	Tileable greyscale images used as a softlight/overlay layer above colors fir added texture effect

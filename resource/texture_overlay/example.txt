@@ -1,0 +1,3 @@
+Dev: 		Erik
+MM/DD: 	03/03
+Comments:	Example psd+png of how soft light and overlay effects are used over colors to add texture to our flat art. Applying masks to layer groups simplifies this workflow.

@@ -7,5 +7,5 @@ MM/DD:	02/25
 Comments:	Moved assets into proper layer groups. Reduced color saturation.
 
 Editor:	Erik
-MM/DD:	02/26
-Comments:	Added more assets and groups for build 1.5.
+MM/DD:	03/03
+Comments:	Added folder with .png files for non-ps devs.
