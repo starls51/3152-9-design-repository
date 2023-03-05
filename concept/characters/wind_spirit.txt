@@ -1,0 +1,3 @@
+Dev: 		Erik
+MM/DD: 	03/05
+Comments:	For our in game asset, the leaves will change to fit Fiona's forest palette. The wind/opacity should match global color scheme for wind objects and potentially clouds as well. For animations, this character may be a hovering set of eyes with a single gust flowing around the "body" area causing the leaves to float.

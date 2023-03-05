@@ -1,0 +1,3 @@
+Dev: 		Erik
+MM/DD: 	03/05
+Comments:	Short and long versions of an 8Venture logo
