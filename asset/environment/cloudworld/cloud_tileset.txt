@@ -1,0 +1,12 @@
+Dev: 		Erik
+MM/DD: 	03/11
+Comments:	Uploaded as a work in progress. Each tile is 256x256, but the overall canvas size is subject to change. Heights for clouds are specified within the template folder based on height categorized as:
+
+High: H
+Medium-High: MH
+Medium: M
+Medium-Low: ML
+Low: L
+Flat: F
+
+Flat designates the tile as "ending" on the bottom of the specified tile. Still working out a system for where the clouds will end horizontally. Avoiding making this tileset larger than it needs to be. There will be a flipped version copied to this set for more variation.

@@ -1,0 +1,3 @@
+Dev: 		Erik
+MM/DD: 	03/11
+Comments:	Stock flatart of clouds from the internet overlayed with boxes to plan out the size allocation for each cloud "part" in tiled. Examining High (H), Medium (M), Low (L), and Flat (F) heights to make connecting pieces.
