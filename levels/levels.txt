@@ -1,0 +1,3 @@
+Dev: 		Erik
+MM/DD: 	03/19
+Comments: For levels, the "readme.txt" inside each level will function as its tag. Check those or contact the level's creator for more info.

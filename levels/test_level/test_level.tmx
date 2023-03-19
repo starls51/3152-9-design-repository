@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-up" width="30" height="30" tilewidth="256" tileheight="256" infinite="0" nextlayerid="5" nextobjectid="37">
+ <editorsettings>
+  <export target="test_level.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" source="test_palette.tsx"/>
+ <tileset firstgid="5" source="clouds.tsx"/>
+ <imagelayer id="3" name="background_repeated" locked="1" repeatx="1" repeaty="1">
+  <image source="repeating_sky.png" width="32" height="32"/>
+ </imagelayer>
+ <layer id="1" name="tile_artwork" width="30" height="30" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,36,22,25,23,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,6,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,8,14,24,26,20,17,0,0,0,0,0,0,0,
+0,4,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,4,4,4,4,4,4,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,4,4,4,4,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+3,4,4,4,4,4,4,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,0,0,0,0,0,0,0,0,
+3,3,4,4,4,4,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,
+3,3,3,3,3,3,3,3,3,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,
+3,3,3,4,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,
+3,3,3,0,0,0,0,0,0,0,0,0,0,4,4,3,3,4,4,4,4,4,4,4,4,0,0,0,0,0,
+3,3,3,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,4,3,3,4,4,4,4,0,0,0,0,0,
+3,3,3,3,3,3,3,0,0,0,0,0,0,4,4,4,4,4,4,3,3,3,3,3,0,0,0,0,0,0,
+3,3,3,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,4,3,3,0,0,0,0,0,0,0,0,0,
+3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,3,3,0,0,0,0,0,0,0,0,0,
+3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,0,0,0,0,0,0,0,0,0,
+3,3,3,0,0,0,0,6,18,37,35,0,0,0,0,0,0,0,0,3,3,0,0,0,0,7,19,25,23,0,
+3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,
+3,3,3,0,0,0,0,0,0,0,2,2,2,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,
+3,3,3,0,0,0,0,0,1,1,1,2,2,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,
+4,4,4,4,4,4,4,1,1,1,1,1,1,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+4,4,4,4,4,4,4,1,1,1,1,1,1,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+</data>
+ </layer>
+ <objectgroup id="4" name="objects" locked="1">
+  <object id="1" name="wind_up_0" class="wind_up" x="1369.7" y="6393.94" width="409.091" height="763.636"/>
+  <object id="7" name="wind_up_1" class="wind_up" x="2916" y="6232" width="212" height="416"/>
+  <object id="9" name="wind_up_2" class="wind_up" x="2206.06" y="4981.82" width="442.424" height="1366.67"/>
+  <object id="14" name="wind_up_3" class="wind_up" x="680" y="2776" width="448" height="1240"/>
+  <object id="17" name="wind_up_4" class="wind_up" x="3920" y="1776" width="328" height="1984"/>
+  <object id="18" name="wind_up_5" class="wind_up" x="3572" y="272" width="300" height="1444"/>
+  <object id="19" name="wind_up_6" class="wind_up" x="6144" y="4856" width="340" height="1536"/>
+  <object id="21" name="wind_up_7" class="wind_up" x="7416" y="6152" width="248" height="1008"/>
+  <object id="2" name="wind_upleft_0" class="wind_upleft" x="4060.61" y="7036.36">
+   <polygon points="0,0 -563.636,-612.121 -306.061,-760.606 230.303,-142.424"/>
+  </object>
+  <object id="22" name="wind_upleft_1" class="wind_upleft" x="5660.61" y="5100">
+   <polygon points="0,0 -318.182,-357.576 -169.697,-515.152 193.939,-121.212"/>
+  </object>
+  <object id="12" name="wind_upright_0" class="wind_upright" x="1756" y="5020">
+   <polygon points="0,0 1012,-1096 1268,-908 160,188"/>
+  </object>
+  <object id="16" name="wind_upright_1" class="wind_upright" x="2592" y="3000">
+   <polygon points="0,0 632,-512 784,-320 120,168"/>
+  </object>
+  <object id="23" name="wind_upright_2" class="wind_upright" x="2572" y="1364">
+   <polygon points="0,0 732,-868 920,-684 160,140"/>
+  </object>
+  <object id="26" name="lightning_dumb_0" class="lightning_dumb" x="2452" y="1540">
+   <polygon points="0,0 -216,468 -144,480 -340,760 -236,832 -468,1064 -588,1216 -504,1516 -552,1228 -436,1076 -364,1164 -392,1276 -180,1512 -356,1260 -316,1140 -388,1044 -232,900 -180,860 120,1100 -72,1400 160,1084 -268,728 -20,444 -148,424 112,-4"/>
+  </object>
+  <object id="13" name="path_ugbird_0" class="path_ugbird" x="1780" y="4840">
+   <polyline points="0,0 1396,-4"/>
+  </object>
+  <object id="25" name="path_gbird_0" class="path_gbird" x="4600" y="1808">
+   <polyline points="0,0 2320,-8"/>
+  </object>
+  <object id="24" name="goal_0" class="goal" x="5496.97" y="930.303">
+   <point/>
+  </object>
+  <object id="3" name="player_start_position" class="player_position" x="2692" y="6562">
+   <point/>
+  </object>
+  <object id="27" name="platform_0" class="platform" x="0" y="7200">
+   <polygon points="0,-3616 256,-3616 256,-3360 512,-3360 512,-3104 2304,-3104 2304,-2848 768,-2848 768,-2080 1792,-2080 1792,-1824 768,-1824 768,-32 2048,-32 2048,-288 2560,-288 2560,-544 2816,-544 3328,-544 3328,-288 3584,-288 3584,-32 4864,-32 4864,-1056 4096,-1056 4096,-1312 4864,-1312 4864,-2336 5379.52,-2323.52 5376,-2080 6144,-2080 6144,-1824 5376,-1824 5376,-32 7680,-32 7680,480 0,480"/>
+  </object>
+  <object id="28" name="platform_1" class="platform" x="4348.48" y="4851.52">
+   <polygon points="3.52,12.48 3.52,-243.52 -508.48,-243.52 -506.06,8.725"/>
+  </object>
+  <object id="29" name="platform_2" class="platform" x="1284.85" y="3324.24">
+   <polygon points="-4.85,3.76 -4.85,-252.24 1275.15,-252.24 1275.15,3.76"/>
+  </object>
+  <object id="30" name="platform_3" class="platform" x="1989.33" y="6397.33">
+   <polygon points="0,0 21.3333,-17.3333 794.667,-18.6667 810.667,-13.3333 824,1.33333"/>
+  </object>
+  <object id="31" name="platform_4" class="platform" x="7398" y="6398">
+   <polygon points="0,0 -4,-22 -900,-18 -908,-12 -914,2"/>
+  </object>
+  <object id="32" name="platform_5" class="platform" x="3584.5" y="2815">
+   <polygon points="0,0 7,-18.5 249,-17.5 255.5,0.5"/>
+  </object>
+  <object id="33" name="platform_6" class="platform" x="2812" y="1534">
+   <polygon points="0,0 -21.3333,-18 -556.667,-17.3333 -567.333,0.666667"/>
+  </object>
+  <object id="34" name="platform_7" class="platform" x="3584.5" y="1791">
+   <polygon points="0,0 7.5,-19.5 249,-19.5 254,1"/>
+  </object>
+  <object id="35" name="platform_8" class="platform" x="4376" y="2303">
+   <polygon points="0,0 3,-18.5 1419,-19 1426.5,1"/>
+  </object>
+  <object id="36" name="platform_9" class="platform" x="4806.67" y="1022.67">
+   <polygon points="0,0 13.3333,-20 1054.67,-18.6667 1060,0"/>
+  </object>
+ </objectgroup>
+</map>
