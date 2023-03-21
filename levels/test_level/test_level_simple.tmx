@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-up" width="16" height="16" tilewidth="256" tileheight="256" infinite="0" nextlayerid="4" nextobjectid="15">
+ <editorsettings>
+  <export target="test_level_simple.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" source="test_palette.tsx"/>
+ <tileset firstgid="5" source="clouds.tsx"/>
+ <imagelayer id="3" name="background_repeated" locked="1" repeatx="1" repeaty="1">
+  <image source="repeating_sky.png" width="32" height="32"/>
+ </imagelayer>
+ <layer id="1" name="tile_artwork" width="16" height="16" locked="1">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,8,38,28,20,31,29,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,7,31,27,23,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,2,2,2,2,0,0,0,0,0,0,0,0,
+0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,
+0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,
+4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+</data>
+ </layer>
+ <objectgroup id="2" name="objects">
+  <object id="2" name="player_start_position" class="player_position" x="2180" y="3716">
+   <point/>
+  </object>
+  <object id="3" name="goal_0" class="goal" x="124" y="3776">
+   <point/>
+  </object>
+  <object id="4" name="wind_00" class="wind" x="3633.45" y="2840.18" width="400" height="1000"/>
+  <object id="5" name="wind_01" class="wind" x="3830.67" y="2256.97" width="400" height="1000" rotation="135"/>
+  <object id="6" name="wind_02" class="wind" x="2560" y="1112.67" width="400" height="1000" rotation="90"/>
+  <object id="7" name="wind_03" class="wind" x="623.667" y="2839.33" width="400" height="1000"/>
+  <object id="8" name="platform_00" class="platform" x="4" y="4096">
+   <polygon points="-4,0 -4,-256 1020,-256 1020,-1024 2044,-1024 2044,-256 4092,-256 4092,0"/>
+  </object>
+  <object id="9" name="platform_01" class="platform" x="3559.82" y="2559.45">
+   <polygon points="0,0 -2.18182,-19.6364 -906.727,-19.2727 -914,0.727273"/>
+  </object>
+  <object id="10" name="platform_02" class="platform" x="1044" y="1790">
+   <polygon points="4.06061,-254.212 1516,-254 1465.25,-274 6.18182,-273.091"/>
+  </object>
+  <object id="11" name="lightning_00" class="lightning" x="1756" y="1544">
+   <properties>
+    <property name="strikeTimer" type="int" value="1"/>
+    <property name="waitTimer" type="int" value="2"/>
+   </properties>
+   <polygon points="-0.909091,-8 -216,468 -144,480 -340,760 -236,832 -468,1064 -588,1216 -512.545,1528 -552,1228 -436,1076 -364,1164 -392,1276 -174.667,1527.33 -356,1260 -316,1140 -388,1044 -232,900 -180,860 120,1100 -43.3333,1526.67 160,1084 -268,728 -20,444 -148,424 114.636,-8.09091"/>
+  </object>
+  <object id="12" name="path_ugbird_0" class="path_ugbird" x="2508" y="2644">
+   <polyline points="-416,175.5 980,171.5"/>
+  </object>
+  <object id="13" name="path_gbird_0" class="path_gbird" x="696" y="1092">
+   <polyline points="0,0 2320,-8"/>
+  </object>
+  <object id="14" name="g_bird_00" class="g_bird" x="1067.33" y="3071.33">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

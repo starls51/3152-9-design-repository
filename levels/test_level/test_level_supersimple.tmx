@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-up" width="8" height="8" tilewidth="256" tileheight="256" infinite="0" nextlayerid="4" nextobjectid="6">
+ <tileset firstgid="1" source="test_palette.tsx"/>
+ <tileset firstgid="5" source="clouds.tsx"/>
+ <imagelayer id="2" name="background_repeating" repeatx="1" repeaty="1">
+  <image source="repeating_sky.png" width="32" height="32"/>
+ </imagelayer>
+ <layer id="1" name="tile_artwork" width="8" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,8,38,35,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+4,4,4,4,4,4,4,4
+</data>
+ </layer>
+ <objectgroup id="3" name="objects">
+  <object id="1" name="player_start_position" class="player_position" x="891.844" y="1640.89">
+   <point/>
+  </object>
+  <object id="2" name="goal_0" class="goal" x="896.814" y="933.614">
+   <point/>
+  </object>
+  <object id="3" name="wind_00" class="wind" x="1291.6" y="787.491" width="400" height="1000"/>
+  <object id="4" name="platform_00" class="platform" x="0" y="1787.88">
+   <polygon points="0,4.12121 2048,4.12121 2048,260.121 0,260.121"/>
+  </object>
+  <object id="5" name="platform_01" class="platform" x="537" y="1007">
+   <polygon points="0,0 721.5,-2.5 740.5,17 -1.125,17.1875"/>
+  </object>
+ </objectgroup>
+</map>

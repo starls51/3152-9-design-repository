@@ -38,9 +38,9 @@ path_gbird/path_ugbird: A and B positions for a line that will be followed by a 
 
 lightning_dumb: Polygon representing the "dumb" (non-proximity activated) flashing lightning effect. This should fill with a repeating texture when active. I will make a unique transparent texture for this later.
 
-wind_up/
-wind_upleft/
-wind_upright: Polygon to be filled with wind texture. up specifies the wind is pointing up, upright is 45degrees right, and the upleft effect is 45 degrees left. The game shouldn't have to rotate the object, rather, the 'fill' of this polygon will change direction (this may impact how our wind works)
+wind: Polygon to be filled with wind texture
 
+Edit 03/20:
+Moved wind rotation in game. Added "simple" variant with all assets. Added super simple variant with no hazards and 8x8 size.
 
 
