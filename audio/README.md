@@ -1,26 +1,34 @@
-# music and sounds
+# Music and Sound Effects
 
-## Rain-dance
+## Music
+
+### Rain-dance
 
 Stage: Main menu track\
 Loop: No
 
-## Exploring the Forest
+### Exploring the Forest
 
 Stage: Forest 1\
 Loop: Yes
 
-## Droplets
+### Droplets
 
 Stage: Cliff/Forest?\
 Loop: Yes
 
-## A World of Clouds
+### A World of Clouds
 
 Stage: Cloud Hopping 1\
 Loop: Yes
 
-## The Storm
+### The Storm
 
 Stage: Cloud Hopping 2\
 Loop: Yes
+
+## Sound Effects
+
+### Open and Close Umbrella
+
+### Footsteps in the Rain
