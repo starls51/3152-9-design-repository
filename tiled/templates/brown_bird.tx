@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="brown_bird" type="bird">
+  <properties>
+   <property name="loop" type="bool" value="false"/>
+   <property name="starting_point" type="object" value="0"/>
+  </properties>
+ </object>
+</template>
