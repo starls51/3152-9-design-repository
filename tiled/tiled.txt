@@ -1,3 +1,9 @@
 Dev: 		Zhiyuan & Miguel
 MM/DD: 	03/24
 Comments: Work-in-progress. You can find an usage guide once completed.
+
+in levels/sample, there are two tilesets cloud and thunder that we generated
+from placeholder assets... it's just a test, more to go!
+
+Make sure to load sample/ directory as a project (loading the JSON in Tiled). 
+This lets you use templates more conveniently.

@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"lightning2.json"
+        }
+    },
  "height":18,
  "infinite":false,
  "layers":[
@@ -33,16 +41,38 @@
         }, 
         {
          "draworder":"topdown",
+         "id":4,
+         "name":"Lightning",
+         "objects":[
+                {
+                 "id":160,
+                 "template":"lightning.tx",
+                 "x":917.1875,
+                 "y":32.8125
+                }, 
+                {
+                 "id":161,
+                 "template":"lightning.tx",
+                 "x":768.75,
+                 "y":351.5625
+                }, 
+                {
+                 "id":168,
+                 "template":"lightning.tx",
+                 "x":367.1875,
+                 "y":3.125
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"Object Layer 1",
          "objects":[
-                {
-                 "id":1,
-                 "template":"platform.tx",
-                 "type":"platform",
-                 "x":61.0340973328537,
-                 "y":383.894480838822
-                }, 
                 {
                  "id":9,
                  "properties":[
@@ -56,24 +86,6 @@
                  "visible":true,
                  "x":869.082882197737,
                  "y":297.865629307866
-                }, 
-                {
-                 "id":16,
-                 "template":"starting_point.tx",
-                 "type":"starting_point",
-                 "x":300.642376278329,
-                 "y":513.245670383883
-                }, 
-                {
-                 "height":10.1752402487281,
-                 "id":20,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":81.4019219898248,
-                 "x":0,
-                 "y":214.731486715657
                 }, 
                 {
                  "id":36,
@@ -161,19 +173,6 @@
                  "y":259.090909090909
                 }, 
                 {
-                 "id":49,
-                 "properties":[
-                        {
-                         "name":"starting_point",
-                         "type":"object",
-                         "value":51
-                        }],
-                 "template":"red_bird.tx",
-                 "type":"bird",
-                 "x":21.5909090909091,
-                 "y":198.863636363636
-                }, 
-                {
                  "id":51,
                  "template":"path_point.tx",
                  "x":77.2727272727273,
@@ -193,41 +192,74 @@
                  "y":214.772727272727
                 }, 
                 {
-                 "id":54,
-                 "template":"platform.tx",
-                 "x":736.363636363636,
-                 "y":86.3636363636364
+                 "id":61,
+                 "name":"blue_bird",
+                 "properties":[
+                        {
+                         "name":"loop",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"starting_point",
+                         "type":"object",
+                         "value":175
+                        }],
+                 "template":"blue_bird.tx",
+                 "x":47.301136363636,
+                 "y":89.9147727272727
                 }, 
                 {
-                 "height":22.8555,
-                 "id":55,
-                 "template":"platform.tx",
-                 "width":285.693181818182,
-                 "x":480.681818181818,
-                 "y":465.909090909091
+                 "id":66,
+                 "properties":[
+                        {
+                         "name":"starting_point",
+                         "type":"object",
+                         "value":51
+                        }],
+                 "template":"red_bird.tx",
+                 "x":14.650657894737,
+                 "y":204.211090225564
                 }, 
                 {
-                 "height":18.3100454545454,
-                 "id":56,
+                 "height":16.6055,
+                 "id":165,
                  "template":"platform.tx",
-                 "width":253.875,
-                 "x":187.5,
-                 "y":539.772727272727
+                 "width":285.125,
+                 "x":287.5,
+                 "y":448.4375
+                }, 
+                {
+                 "id":166,
+                 "template":"platform.tx",
+                 "x":54.6875,
+                 "y":390.625
                 }, 
                 {
                  "height":10.3555,
-                 "id":57,
+                 "id":174,
                  "template":"platform.tx",
-                 "width":109.556818181818,
-                 "x":837.5,
-                 "y":303.409090909091
+                 "width":80.4375,
+                 "x":-4.6875,
+                 "y":254.6875
                 }, 
                 {
-                 "id":61,
-                 "name":"blue_bird",
-                 "template":"blue_bird.tx",
-                 "x":186.363636363636,
-                 "y":85.2272727272727
+                 "id":175,
+                 "properties":[
+                        {
+                         "name":"next_trajectory",
+                         "type":"object",
+                         "value":176
+                        }],
+                 "template":"path_point.tx",
+                 "x":125,
+                 "y":64.0625
+                }, 
+                {
+                 "id":176,
+                 "template":"path_point.tx",
+                 "x":262.5,
+                 "y":60.9375
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -235,13 +267,30 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":3,
- "nextobjectid":62,
+ "nextlayerid":5,
+ "nextobjectid":177,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.0",
  "tileheight":32,
- "tilesets":[],
+ "tilesets":[
+        {
+         "columns":16,
+         "firstgid":1,
+         "image":"..\/..\/..\/asset\/placeholder\/placeholder_assets\/tile_background.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"cloud",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "firstgid":257,
+         "source":"thunder.tsx"
+        }],
  "tilewidth":32,
  "type":"map",
  "version":"1.10",
