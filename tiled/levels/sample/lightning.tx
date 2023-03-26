@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="lightning" type="lightning">
+  <properties>
+   <property name="strike_timer" type="int" value="1"/>
+   <property name="strike_timer_offset" type="int" value="2"/>
+  </properties>
+  <polygon points="0,0 -60,85.3333 -4,125.333 -69.7631,201.075 48,134.667 -10.6667,80 46.6667,9.33333"/>
+ </object>
+</template>
