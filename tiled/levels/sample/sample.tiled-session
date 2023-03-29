@@ -9,6 +9,21 @@
             "scaleInDock": 0.5,
             "scaleInEditor": 1
         },
+        "example.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "example.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "example2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.1129,
+            "scaleInEditor": 1
+        },
         "lightning2.json": {
             "scale": 0.880419921875,
             "selectedLayer": 0,
@@ -24,11 +39,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.64,
-            "selectedLayer": 1,
+            "scale": 0.4815,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 496.09375,
-                "y": 473.4375
+                "x": 510.90342679127724,
+                "y": 602.2845275181724
             }
         },
         "sample.json#cloud": {
@@ -55,27 +70,38 @@
             "scaleInDock": 1
         },
         "thunder.tsx": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
     "last.exportedFilePath": "/Users/zhiyuan/Documents/Semesters/SP23/Design/3152-9-design-repository/tiled/levels/sample",
     "last.externalTilesetPath": "/Users/zhiyuan/Documents/Semesters/SP23/Design/3152-9-design-repository/tiled/levels/sample",
-    "last.imagePath": "/Users/zhiyuan/Documents/Semesters/SP23/Design/3152-9-design-repository/asset/placeholder/placeholder_assets",
+    "last.imagePath": "/Users/zhiyuan/Documents/Semesters/SP23/Design/3152-9-design-repository/asset/placeholder",
+    "last.objectTemplatePath": "/Users/zhiyuan/Documents/Semesters/SP23/Design/3152-9-design-repository/tiled/levels/sample",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "openFiles": [
         "sample.json"
     ],
     "project": "sample.tiled-project",
-    "property.type": "file",
+    "property.type": "object",
     "recentFiles": [
         "sample.json",
+        "example.tsx",
+        "example2.tsx",
+        "example.json",
+        "thunder.tsx",
         "lightning2.json",
         "sample2.tmj",
         "sample.tmj",
-        "cloud.tsx",
-        "thunder.tsx"
+        "cloud.tsx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 1
 }
