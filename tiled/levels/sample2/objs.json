@@ -1,0 +1,89 @@
+{
+       "columns": 0,
+       "grid": {
+              "height": 1,
+              "orientation": "orthogonal",
+              "width": 1
+       },
+       "margin": 0,
+       "name": "objs",
+       "spacing": 0,
+       "tilecount": 4,
+       "tiledversion": "1.10.0",
+       "tileheight": 512,
+       "tiles": [
+              {
+                     "id": 4,
+                     "image": "red_bird.png",
+                     "imageheight": 400,
+                     "imagewidth": 412,
+                     "objectgroup": {
+                            "draworder": "index",
+                            "id": 2,
+                            "name": "",
+                            "objects": [
+                                   {
+                                          "height": 400,
+                                          "id": 1,
+                                          "name": "outline",
+                                          "rotation": 0,
+                                          "type": "",
+                                          "visible": true,
+                                          "width": 412,
+                                          "x": 0,
+                                          "y": 0
+                                   }
+                            ],
+                            "opacity": 1,
+                            "type": "objectgroup",
+                            "visible": true,
+                            "x": 0,
+                            "y": 0
+                     }
+              },
+              {
+                     "id": 5,
+                     "image": "blue_bird.png",
+                     "imageheight": 194,
+                     "imagewidth": 548,
+                     "objectgroup": {
+                            "draworder": "index",
+                            "id": 2,
+                            "name": "",
+                            "objects": [
+                                   {
+                                          "height": 194,
+                                          "id": 1,
+                                          "name": "outline",
+                                          "rotation": 0,
+                                          "type": "",
+                                          "visible": true,
+                                          "width": 548,
+                                          "x": 0,
+                                          "y": 0
+                                   }
+                            ],
+                            "opacity": 1,
+                            "type": "objectgroup",
+                            "visible": true,
+                            "x": 0,
+                            "y": 0
+                     }
+              },
+              {
+                     "id": 6,
+                     "image": "gale_cropped",
+                     "imageheight": 354,
+                     "imagewidth": 168
+              },
+              {
+                     "id": 7,
+                     "image": "blue_flag.png",
+                     "imageheight": 512,
+                     "imagewidth": 512
+              }
+       ],
+       "tilewidth": 548,
+       "type": "tileset",
+       "version": "1.10"
+}
