@@ -144,7 +144,7 @@ rectangles are defined by the (x,y) coordinate of their **left corner**.
 
 - If you move your cursor around, you will see the coordinate of your cursor
 in the lower left area of the Tiled application. You should be aware that
-the Tiled origin (0,0) is bottom left corner of grid. X values increase from
+the Tiled origin (0,0) is top left corner of grid. X values increase from
 left to right. Y values increase as we go down along the grid.
 
 ## Step 6: Tile Layers & Tilesets
