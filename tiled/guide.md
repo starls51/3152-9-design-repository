@@ -152,7 +152,7 @@ left to right. Y values increase as we go down along the grid.
 Please access [Tiled Docs](https://doc.mapeditor.org/en/stable/manual/editing-tile-layers/)
 to read more about what featurs are supported in tile layers.
 
-![art](./recordings/sample_art.png)
+![art](./recordings/sample_art2.png)
 
 ### Step 6.1: Adding Tilesets
 
