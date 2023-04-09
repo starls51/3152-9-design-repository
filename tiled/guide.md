@@ -3,6 +3,16 @@
 ### Author: Zhiyuan
 ### Supporting Team: Zhiyuan & Miguel
 
+## Changelog
+
+Skip this section if it's your first time reading this guide.
+
+- Step 4 extra details added.
+
+- Step 7 has been updated. Grid tiles can be rotated and flipped under no restrictions. You may not do this with object tiles though (for now)! Read that section for more detail.
+
+- Step 8 updated to include shortcut keys related to tile rotating/flipping.
+
 ## Step 0: Getting Started
 
 Visit [Tiled editor page](https://www.mapeditor.org/) if you have never done so
@@ -71,6 +81,21 @@ want to keep.
 Right click on layers toolbar to make new object/tile layers.
 - Make **copy** of map if you want local comparison. It's just a JSON file. You can
 do this by opening the levels/ folder and make a duplicate.
+
+### Step 4.1: Duplicating Level (Recommended)
+
+Below, we demonstrate how to copy an already existing level file and creating
+new tile layers. This should be straightforward.
+
+![duplicating level file](./recordings/development1.gif)
+
+### Step 4.2: Making Fresh Level (Optional)
+
+If you want to start fresh map, here is a demo to do that. If you do this, 
+make sure to import every item in tileset folder as shown in the following demo.
+
+![new level file](./recordings/development2.gif)
+
 
 ## Step 5: Editing Objects
 
@@ -166,18 +191,30 @@ consistent level parsing.
 includes using polygon editor on an instance. Should this cause problems, we 
 will have to work around this degree of freedom.
 
-- Do not toggle features like flipping an object/tile horizontally/vertically.
-This actually breaks Tiled data. Perhaps a setup issue or Tiled application bug.
+- ~~Do not toggle features like flipping an object/tile horizontally/vertically.
+This actually breaks Tiled data. Perhaps a setup issue or Tiled application bug.~~ 
+    - This is now supported. You can flip and rotate tiles freely. See shortcuts
+below. However, there are object tiles in Tiled (tiles that are added to object layers instead of tile layers). We are using that functionality to display Gale and a few other entities in the game. For now, you can toggle the
+horizontal flip on object tiles shown in the following image to display their 
+actual orientation in Tiled. We will update the parser to support this soon so 
+that there's no `facing_right` in custom properties for entities like birds.
+![rules](./recordings/flipping_properties.png)
 
-- Do not modify tilesets or templates!
 
-## Step 8: Begin!
+- Do not modify tilesets or templates unless you communicate such updates with
+the supporting team. You may accidentally break your the Tiled level you are 
+working on if this is not done carefully! 
+
+## Step 8: Begin! & Some Shortcuts
 
 > More details to be added based on encountered difficulties.
 
 Perhaps useful Keys
 | Key      | Description |
 | ----------- | ----------- |
+| Tab   | See map with all toolbars hidden|
 | H      | Highlight Current Layer|
 | G | Toggle Grid|
-| Tab   | See map with all toolbars hidden|
+| X | Flip Tile Horizontally|
+| Y | Flip Tile Vertically|
+| Z | Rotate Tile Clockwise 90 deg|
