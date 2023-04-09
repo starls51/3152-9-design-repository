@@ -169,7 +169,7 @@ rectangles are defined by the (x,y) coordinate of their **left corner**.
 
 - If you move your cursor around, you will see the coordinate of your cursor
 in the lower left area of the Tiled application. You should be aware that
-the Tiled origin (0,0) is bottom left corner of grid. X values increase from
+the Tiled origin (0,0) is top left corner of grid. X values increase from
 left to right. Y values increase as we go down along the grid.
 
 ## Step 6: Tile Layers & Tilesets
@@ -177,7 +177,7 @@ left to right. Y values increase as we go down along the grid.
 Please access [Tiled Docs](https://doc.mapeditor.org/en/stable/manual/editing-tile-layers/)
 to read more about what featurs are supported in tile layers.
 
-![art](./recordings/sample_art.png)
+![art](./recordings/sample_art2.png)
 
 ### Step 6.1: Adding Tilesets
 
