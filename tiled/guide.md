@@ -7,11 +7,24 @@
 
 Skip this section if it's your first time reading this guide.
 
-- Step 4 extra details added.
+- April 10 2023:
 
-- Step 7 has been updated. Grid tiles can be rotated and flipped under no restrictions. You may not do this with object tiles though (for now)! Read that section for more detail.
+    - added demo to Step 5.2 (Rotating Wind Direction)
 
-- Step 8 updated to include shortcut keys related to tile rotating/flipping.
+    - added Step 6.2 which shows a demo of rotating/flipping tiles.
+
+    - updated Step 7. Object tiles (the instances you make from bird templates) can now be safely
+    flipped horizontally. This is useful to see which direction a bird is facing
+    initially.
+
+- April 9 2023:
+
+    - added details to Step 4.
+
+    - updated Step 7. Grid tiles can be rotated and flipped under no restrictions. 
+    You may not do this with object tiles though (for now)! Read that section for more detail.
+
+    - Step 8 updated to include shortcut keys related to tile rotating/flipping.
 
 ## Step 0: Getting Started
 
@@ -119,7 +132,7 @@ The following provides a quick demo to how to (in the order of)
 for wind direction template _wind\_dir_. Simply select the object, click on it
 while it is selected, and you will see an UI to rotate the object.
 
-> TODO: **gif to be placed here**
+![rotation](./recordings/rotation.gif)
 
 ### Step 5.3: Using Templates
 
@@ -175,7 +188,7 @@ left to right. Y values increase as we go down along the grid.
 ## Step 6: Tile Layers & Tilesets
 
 Please access [Tiled Docs](https://doc.mapeditor.org/en/stable/manual/editing-tile-layers/)
-to read more about what featurs are supported in tile layers.
+to read more about what features are supported in tile layers.
 
 ![art](./recordings/sample_art2.png)
 
@@ -184,6 +197,32 @@ to read more about what featurs are supported in tile layers.
 If you want to introduce a new tileset, please send such request to supporting team.
 The new tileset needs to be added in code as well as tileset data to ensure
 consistent level parsing.
+
+### Step 6.2: Rotating and Flipping Tiles
+
+You can rotate the current selected tile(s) by pressing `Z` (this does a 90
+degree clockwise rotation). There's a separate key for counter-clockwise rotation
+but you might as well just use clockwise rotation since it's 1 key rather than
+a combination.
+
+You can flip the current selected tile **horizontally** by pressing `X` and
+**vertically** by pressing `Y`. 
+
+The above shortcut keys are listed in a table under Step 8. If you prefer
+using the toolbar instead (honestly don't know why the toolbar would be preferred),
+locate these buttons on the toolbar (which may be collapsed depending on your
+window size).
+
+![tools](./recordings/tile_tools.png)
+
+
+You should try these features out! Here's a demo:
+
+> The gif may be slow. This should be really fast once you are familiar.
+
+> With these features, a single tile can be used in 8 different ways!
+
+![tiles_demo](./recordings/tile_features.gif)
 
 ## Step 7: Remember Some Rules
 
@@ -194,15 +233,16 @@ will have to work around this degree of freedom.
 - ~~Do not toggle features like flipping an object/tile horizontally/vertically.
 This actually breaks Tiled data. Perhaps a setup issue or Tiled application bug.~~ 
     - This is now supported. You can flip and rotate tiles freely. See shortcuts
-below. However, there are object tiles in Tiled (tiles that are added to object layers instead of tile layers). We are using that functionality to display Gale and a few other entities in the game. For now, you can toggle the
-horizontal flip on object tiles shown in the following image to display their 
-actual orientation in Tiled. We will update the parser to support this soon so 
-that there's no `facing_right` in custom properties for entities like birds.
+below. You can also toggle the horizontal flip on object tiles shown in the 
+following image to display their actual orientation in Tiled since the bird
+textures only face a particular direction and you can flip them to improve
+visualization in Tiled, and it will indicate to the parser that the 
+bird faces the opposite direction.
 ![rules](./recordings/flipping_properties.png)
 
 
 - Do not modify tilesets or templates unless you communicate such updates with
-the supporting team. You may accidentally break your the Tiled level you are 
+the supporting team. You may accidentally break the Tiled level you are 
 working on if this is not done carefully! 
 
 ## Step 8: Begin! & Some Shortcuts
