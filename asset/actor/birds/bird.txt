@@ -1,0 +1,9 @@
+Dev:
+
+Editor: Erik
+
+Frame layouts:
+
+bird_mean: 1 row, 5 frames, 290 x 238 px each
+bird_nest: 1 row, 6 frames, 199 x 242 px each
+bird_nice: 1 row, 4 frames, 237 x 229 px each
