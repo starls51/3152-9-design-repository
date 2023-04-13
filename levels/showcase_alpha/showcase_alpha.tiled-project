@@ -1,0 +1,12 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        ".",
+        "../../../8venture-games/rrga/assets/levels"
+    ],
+    "propertyTypes": [
+    ]
+}
