@@ -1,0 +1,4 @@
+Dev: Erik
+Date: 04/14/2023
+
+Frame layout: 12 frames, 4 columns 3 rows. 228x228 PX
