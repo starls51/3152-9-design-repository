@@ -17,16 +17,24 @@
             "scale": 0.125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 2788,
-                "y": 3168
+                "x": 780,
+                "y": 2360
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json": {
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1053.25,
-                "y": 3658.5
+                "x": 2048,
+                "y": 2879.5
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json": {
+            "scale": 0.11446180555555555,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2048.7183376308208,
+                "y": 2883.057788563628
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets/bushes.json": {
@@ -57,6 +65,7 @@
     ],
     "project": "showcase_alpha.tiled-project",
     "recentFiles": [
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json",
         "C:/Users/Starls/Desktop/showcase_alpha.json"
     ]
