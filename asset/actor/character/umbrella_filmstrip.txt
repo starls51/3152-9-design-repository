@@ -1,3 +1,7 @@
 Dev: 		Erik
 MM/DD: 	04/08
 Comments:	umbrella opening filmstrip, the frame size is 496x496
+
+Edit: Erik
+MM/DD: 04/20
+Comments: Added padding to lower half, new fram size is 469x600- the base of the umbrella is centered.
