@@ -3,30 +3,47 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/Starls/Desktop/showcase_alpha.json",
+    "activeFile": "C:/Users/Starls/Desktop/clouds_dark.tsx",
     "expandedProjectPaths": [
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels"
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "C:/Users/Starls/Desktop/clouds.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Starls/Desktop/clouds_dark.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
         "C:/Users/Starls/Desktop/showcase_alpha.json": {
-            "expandedObjectLayers": [
-                4
-            ],
-            "scale": 0.125,
-            "selectedLayer": 3,
+            "scale": 0.33,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 780,
-                "y": 2360
+                "x": 1819.6969696969697,
+                "y": 2724.242424242424
             }
         },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/8venture-games-main/rrga/assets/levels/tilesets/bushes.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/8venture-games-main/rrga/assets/levels/tilesets/cliffs.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/8venture-games-main/rrga/assets/levels/tilesets/objs.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/8venture-games-main/rrga/assets/levels/tilesets/trees.json": {
+            "scaleInDock": 1
+        },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json": {
-            "scale": 2,
+            "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2048,
-                "y": 2879.5
+                "x": 1053.030303030303,
+                "y": 2475.757575757576
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json": {
@@ -53,6 +70,7 @@
             "scaleInDock": 0.25
         }
     },
+    "last.imagePath": "C:/Users/Starls/Desktop",
     "map.height": 36,
     "map.lastUsedFormat": "json",
     "map.renderOrder": null,
@@ -60,13 +78,21 @@
     "map.tileWidth": 128,
     "map.width": 32,
     "openFiles": [
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json",
-        "C:/Users/Starls/Desktop/showcase_alpha.json"
+        "C:/Users/Starls/Desktop/showcase_alpha.json",
+        "C:/Users/Starls/Desktop/clouds.tsx",
+        "C:/Users/Starls/Desktop/clouds_dark.tsx"
     ],
     "project": "showcase_alpha.tiled-project",
     "recentFiles": [
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json",
+        "C:/Users/Starls/Desktop/showcase_alpha.json",
+        "C:/Users/Starls/Desktop/clouds.tsx",
+        "C:/Users/Starls/Desktop/clouds_dark.tsx",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json",
-        "C:/Users/Starls/Desktop/showcase_alpha.json"
-    ]
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 128,
+        "width": 128
+    }
 }
