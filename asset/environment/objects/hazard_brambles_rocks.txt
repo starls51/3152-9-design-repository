@@ -1,0 +1,6 @@
+Dev: Erik
+Date: 4/25/23
+Comments:
+Tiling brambles can be used as a fill texture for hazards or as a tile in a tile layer. The other two brambles are stickers. The templates do not need collision, as we should be able to draw those with the hazard polygon. 
+
+Hazard_rocks.png is exclusively a object, for object layer not tile layer.
