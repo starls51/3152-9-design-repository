@@ -9,3 +9,19 @@ Edited:
 Changed to center with still image of gale. New tile height and width.
 Tile width: 369
 Tile Height: 464
+
+
+Edited:
+Date: 4/27
+Comments:
+
+Added
+
+gale_filmstrip_takeoff.png
+	Transition from walking animation to flying animation, for when Gale catches a gust.
+
+gale_filmstop_reverse.png
+	Transition from left facing Gale to right facing Gale
+
+gale_filmstrip_land.png
+	Transition from flying Gale to walking Gale
