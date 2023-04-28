@@ -3,9 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/Starls/Desktop/clouds_dark.tsx",
+    "activeFile": "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json",
     "expandedProjectPaths": [
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/objects/json",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/birds",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/objects",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -20,10 +23,10 @@
         },
         "C:/Users/Starls/Desktop/showcase_alpha.json": {
             "scale": 0.33,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 1819.6969696969697,
-                "y": 2724.242424242424
+                "y": 2722.727272727273
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/8venture-games-main/rrga/assets/levels/tilesets/bushes.json": {
@@ -38,21 +41,62 @@
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/8venture-games-main/rrga/assets/levels/tilesets/trees.json": {
             "scaleInDock": 1
         },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json": {
-            "scale": 0.33,
-            "selectedLayer": 1,
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level0.json": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1053.030303030303,
-                "y": 2475.757575757576
+                "x": 1762,
+                "y": 2700
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2137.878787878788,
+                "y": 3381.818181818182
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json": {
-            "scale": 0.11446180555555555,
-            "selectedLayer": 0,
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.25,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 2048.7183376308208,
-                "y": 2883.057788563628
+                "x": 1830,
+                "y": 1804
             }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level3.json": {
+            "expandedObjectLayers": [
+                13,
+                2
+            ],
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1148,
+                "y": 1624
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/objects/json/brown_bird_tile.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/objects/json/clouds.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/objects/json/green_bird_tile.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/objects/json/red_bird_tile.json": {
+            "scaleInDock": 1
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets/bushes.json": {
             "dynamicWrapping": false,
@@ -65,9 +109,20 @@
             "dynamicWrapping": true,
             "scaleInDock": 0.03125
         },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets/stickers.json": {
+            "scaleInDock": 1
+        },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets/trees.json": {
             "dynamicWrapping": false,
             "scaleInDock": 0.25
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/zhiyuan_sample.json": {
+            "scale": 0.5032958984375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1024.2483628425903,
+                "y": 576.2017948096045
+            }
         }
     },
     "last.imagePath": "C:/Users/Starls/Desktop",
@@ -78,17 +133,20 @@
     "map.tileWidth": 128,
     "map.width": 32,
     "openFiles": [
-        "C:/Users/Starls/Desktop/showcase_alpha.json",
-        "C:/Users/Starls/Desktop/clouds.tsx",
-        "C:/Users/Starls/Desktop/clouds_dark.tsx"
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level0.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level3.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json"
     ],
     "project": "showcase_alpha.tiled-project",
     "recentFiles": [
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level0.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level3.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/zhiyuan_sample.json",
         "C:/Users/Starls/Desktop/showcase_alpha.json",
         "C:/Users/Starls/Desktop/clouds.tsx",
-        "C:/Users/Starls/Desktop/clouds_dark.tsx",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level1.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level2.json"
+        "C:/Users/Starls/Desktop/clouds_dark.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
