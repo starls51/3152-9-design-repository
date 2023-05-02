@@ -1,0 +1,5 @@
+Dev: Erik
+Date: 05/01
+Comments: Bushes are a masked variant of the bush tileset (found in bush.psd in tilesets folder)
+
+These should be stickers, no hitbox
