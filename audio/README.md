@@ -1,11 +1,32 @@
-# Music and Sound Effects
+# Music
 
-## Music
+## Main Menu Track
 
 ### Rain-dance
 
 Stage: Main menu track\
 Loop: No
+
+## UI Tracks
+
+### Victory
+
+Stage: Win track\
+Loop: Yes
+
+### Game Over
+
+Stage: Lose track\
+Loop: No
+
+## Game Tracks
+
+### A World of Clouds
+
+Stage: Cloud Hopping 1\
+Loop: Yes
+
+## Old Tracks
 
 ### Exploring the Forest
 
@@ -14,10 +35,15 @@ Loop: Yes
 
 ### Droplets
 
-Stage: Cliff/Forest?\
+Stage: Forest\
 Loop: Yes
 
-### A World of Clouds
+### Over the Cliffs
+
+Stage: Cliff\
+Loop: Yes
+
+### A World of Clouds (old)
 
 Stage: Cloud Hopping 1\
 Loop: Yes
@@ -26,9 +52,3 @@ Loop: Yes
 
 Stage: Cloud Hopping 2\
 Loop: Yes
-
-## Sound Effects
-
-### Open and Close Umbrella
-
-### Footsteps in the Rain
