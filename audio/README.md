@@ -26,11 +26,16 @@ Loop: No
 Stage: Cloud Hopping 1\
 Loop: Yes
 
-## Old Tracks
-
 ### Exploring the Forest
 
-Stage: Forest 1\
+Stage: Forest\
+Loop: Yes
+
+## Old Tracks
+
+### A World of Clouds (old)
+
+Stage: Cloud Hopping 1\
 Loop: Yes
 
 ### Droplets
@@ -38,14 +43,14 @@ Loop: Yes
 Stage: Forest\
 Loop: Yes
 
+### Exploring the Forest (old)
+
+Stage: Forest\
+Loop: Yes
+
 ### Over the Cliffs
 
 Stage: Cliff\
-Loop: Yes
-
-### A World of Clouds (old)
-
-Stage: Cloud Hopping 1\
 Loop: Yes
 
 ### The Storm
