@@ -3,23 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json",
+    "activeFile": "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t25.json",
     "expandedProjectPaths": [
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/fiona",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/static_hazards",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/dev_matt",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/logs",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/matt",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/birds",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/cloud_platforms",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/misc",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/birds",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/logs",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/static_hazards",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/zhiyuan",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/fiona",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/matt/tutorials",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/lightning"
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/misc",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/templates/lightning",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/dev_matt",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/matt"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -160,27 +162,30 @@
             "scaleInDock": 1
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t01.json": {
-            "scale": 0.25,
-            "selectedLayer": 8,
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 3234,
-                "y": 1992
+                "x": 2793.939393939394,
+                "y": 2415.151515151515
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t02.json": {
-            "scale": 0.33,
+            "scale": 0.125,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 2362.121212121212,
-                "y": 1954.5454545454547
+                "x": 3500,
+                "y": 2400
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t03.json": {
-            "scale": 0.5,
+            "scale": 0.125,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 2691,
-                "y": 1828
+                "x": 3876,
+                "y": 2304
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t04.json": {
@@ -188,7 +193,7 @@
             "selectedLayer": 9,
             "viewCenter": {
                 "x": 2490,
-                "y": 3084
+                "y": 3876
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t05.json": {
@@ -201,14 +206,14 @@
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t06.json": {
             "expandedObjectLayers": [
-                10,
-                9
+                9,
+                10
             ],
-            "scale": 0.125,
-            "selectedLayer": 4,
+            "scale": 0.25,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 4356,
-                "y": 1856
+                "x": 3650,
+                "y": 2852
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t07.json": {
@@ -217,147 +222,152 @@
                 21
             ],
             "scale": 0.125,
-            "selectedLayer": 11,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 2572,
-                "y": 2776
+                "x": 3508,
+                "y": 2200
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t08.json": {
             "expandedObjectLayers": [
+                9,
                 13
             ],
-            "scale": 0.125,
-            "selectedLayer": 3,
+            "scale": 0.33,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 3684,
-                "y": 1488
+                "x": 3895.454545454545,
+                "y": 2890.909090909091
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t09.json": {
-            "scale": 0.125,
-            "selectedLayer": 3,
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 1.5,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 3700,
-                "y": 3040
+                "x": 4367,
+                "y": 3656.6666666666665
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t10.json": {
             "expandedObjectLayers": [
-                16,
-                15,
-                13,
-                10,
                 9,
-                2,
-                3
+                10,
+                13,
+                15,
+                16,
+                3,
+                2
             ],
-            "scale": 0.125,
-            "selectedLayer": 4,
+            "scale": 1,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 5452,
-                "y": 3424
+                "x": 4413.5,
+                "y": 3740
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t11.json": {
             "expandedObjectLayers": [
-                16,
-                17,
-                15,
-                13,
-                10,
                 9,
-                2,
-                18,
-                3
-            ],
-            "scale": 0.25,
-            "selectedLayer": 6,
-            "viewCenter": {
-                "x": 6434,
-                "y": 1020
-            }
-        },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t12.json": {
-            "expandedObjectLayers": [
+                10,
                 13,
-                18,
+                15,
+                17,
+                16,
                 3,
                 2,
-                17,
-                16
-            ],
-            "scale": 0.25,
-            "selectedLayer": 11,
-            "viewCenter": {
-                "x": 4930,
-                "y": 5568
-            }
-        },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t13.json": {
-            "expandedObjectLayers": [
-                16,
-                17,
-                15,
-                13,
-                10,
-                9,
-                2,
-                18,
-                3
-            ],
-            "scale": 0.5,
-            "selectedLayer": 14,
-            "viewCenter": {
-                "x": 6953,
-                "y": 6650
-            }
-        },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t14.json": {
-            "expandedObjectLayers": [
-                16,
-                17,
-                15,
-                13,
-                10,
-                9,
-                2,
-                18,
-                3
+                18
             ],
             "scale": 0.0625,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2696,
-                "y": 4048
+                "x": 4264,
+                "y": 4368
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t12.json": {
+            "expandedObjectLayers": [
+                9,
+                13,
+                17,
+                16,
+                3,
+                2,
+                18
+            ],
+            "scale": 1.5,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 3165,
+                "y": 6168
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t13.json": {
+            "expandedObjectLayers": [
+                9,
+                10,
+                13,
+                15,
+                17,
+                16,
+                3,
+                2,
+                18
+            ],
+            "scale": 0.25,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 2006,
+                "y": 8884
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t14.json": {
+            "expandedObjectLayers": [
+                9,
+                10,
+                13,
+                15,
+                17,
+                16,
+                3,
+                2,
+                18
+            ],
+            "scale": 0.25,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 8070,
+                "y": 3220
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t15.json": {
             "expandedObjectLayers": [
-                16,
-                17,
-                15,
-                13,
-                10,
                 9,
                 25,
+                10,
+                13,
+                15,
+                17,
+                16,
+                3,
                 2,
-                18,
-                3
+                18
             ],
-            "scale": 0.03125,
+            "scale": 0.33,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 2128,
-                "y": 4000
+                "x": 10189.39393939394,
+                "y": 3215.151515151515
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t16.json": {
-            "scale": 0.25,
+            "scale": 0.33,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 8366,
-                "y": 3184
+                "x": 10283.333333333332,
+                "y": 3145.4545454545455
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t17.json": {
@@ -395,12 +405,12 @@
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t20.json": {
             "expandedObjectLayers": [
-                17,
-                15,
                 9,
                 25,
-                2,
-                3
+                15,
+                17,
+                3,
+                2
             ],
             "scale": 0.0625,
             "selectedLayer": 15,
@@ -411,100 +421,128 @@
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t21.json": {
             "expandedObjectLayers": [
-                13,
-                10,
-                25,
-                9,
-                18,
-                3,
+                32,
+                15,
+                31,
                 17,
                 2,
-                31,
-                15,
-                32
+                3,
+                18,
+                9,
+                10,
+                25,
+                13
             ],
-            "scale": 0.125,
+            "scale": 0.25,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 5116,
-                "y": 6320
+                "x": 6488,
+                "y": 6560
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t22.json": {
             "expandedObjectLayers": [
-                13,
-                25,
-                18,
-                3,
-                16,
-                15
-            ],
-            "scale": 0.25,
-            "selectedLayer": 14,
-            "viewCenter": {
-                "x": 1878,
-                "y": 8456
-            }
-        },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json": {
-            "scale": 0.0625,
-            "selectedLayer": 6,
-            "viewCenter": {
-                "x": 7528,
-                "y": 2272
-            }
-        },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t24.json": {
-            "scale": 0.125,
-            "selectedLayer": 8,
-            "viewCenter": {
-                "x": 3236,
-                "y": 6976
-            }
-        },
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t25.json": {
-            "expandedObjectLayers": [
-                13,
-                10,
-                25,
-                9,
-                18,
-                3,
-                2,
-                17,
-                16,
-                31,
                 15,
-                32
+                16,
+                3,
+                18,
+                25,
+                13
             ],
             "scale": 0.125,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 444,
-                "y": 8784
+                "x": 5768,
+                "y": 7240
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json": {
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 5851.515151515152,
+                "y": 4948.484848484848
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t24.json": {
+            "expandedObjectLayers": [
+                15,
+                3,
+                13
+            ],
+            "scale": 0.0625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3728,
+                "y": 7104
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t25.json": {
+            "expandedObjectLayers": [
+                32,
+                15,
+                31,
+                16,
+                2,
+                17,
+                18,
+                3,
+                9,
+                10,
+                25,
+                13
+            ],
+            "scale": 0.125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 4888,
+                "y": 6248
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t26.json": {
+            "expandedObjectLayers": [
+                31,
+                2,
+                17,
+                3,
+                9
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 8890.90909090909,
+                "y": 6666.666666666666
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t27.json": {
+            "scale": 0.0625,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 8144,
+                "y": 6896
             }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t30.json": {
             "expandedObjectLayers": [
-                16,
-                17,
-                32,
-                15,
-                31,
-                13,
-                10,
-                9,
-                25,
                 2,
-                18,
                 3
             ],
             "scale": 0.0625,
-            "selectedLayer": 0,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2728,
-                "y": -1088
+                "x": 5280,
+                "y": 2992
             }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/tilesets/bushes_old.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/tilesets/cliffs_old.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/tilesets/trees_old.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/level0.json": {
             "expandedObjectLayers": [
@@ -585,6 +623,66 @@
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/objects/json/objects.json": {
             "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t26.json": {
+            "scale": 0.125,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 8448,
+                "y": 6984
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t26_backup.json": {
+            "expandedObjectLayers": [
+                32,
+                15,
+                31,
+                16,
+                2,
+                17,
+                18,
+                3,
+                9,
+                10,
+                25,
+                13
+            ],
+            "scale": 0.125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 5576,
+                "y": 6088
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t27.json": {
+            "expandedObjectLayers": [
+                3,
+                31,
+                15,
+                2
+            ],
+            "scale": 0.0625,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 10736,
+                "y": 8752
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t5_matts_t2.json": {
+            "scale": 0.12928427419354838,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3968.0000000000005,
+                "y": 2177.372319688109
+            }
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t6.json": {
+            "scale": 0.13555836397058824,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3201.573014662259,
+                "y": 2179.8728705822527
+            }
         },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/testing.json": {
             "scale": 0.25,
@@ -725,6 +823,32 @@
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/objects/json/objects.json": {
             "scaleInDock": 1
         },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/tilesets/bushes_ground.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/tilesets/cliffs_exterior.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/tilesets/cliffs_interior.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/tilesets/dirt.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/tilesets/stickers.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/tilesets/trees_background.json": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/zhiyuan/zhiyuan_sample.json": {
+            "scale": 0.5009765625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1024,
+                "y": 576.8732943469786
+            }
+        },
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/tilesets/bushes.json": {
             "dynamicWrapping": false,
             "scaleInDock": 0.33
@@ -799,22 +923,25 @@
     "map.tileWidth": 128,
     "map.width": 32,
     "openFiles": [
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json"
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t22.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t24.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t25.json"
     ],
     "project": "showcase_alpha.tiled-project",
     "recentFiles": [
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t24.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t22.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t25.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t21.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t12.json",
         "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t30.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t20.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t19.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t14.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t11.json",
-        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t15.json"
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t26_backup.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t26.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t27.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t24.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t25.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t23.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t22.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/golden_master/t21.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t6.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t5_matts_t2.json",
+        "C:/Users/Starls/OneDrive - Cornell University/Documents/00_Cnl_INFO3152/8venture-games/rrga/assets/levels/production/erik/t26.json"
     ],
     "tileset.lastUsedFormat": "json",
     "tileset.tileSize": {
